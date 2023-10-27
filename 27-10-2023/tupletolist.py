@@ -1,0 +1,7 @@
+t = ('my', 'name', 'is', 'mrs', 'selva')
+tu=list(t)
+print("tuple to list",t)
+t.insert(5,"muhammed")
+print("added item",t)
+li=tuple(t)
+print("list to tuple",p)
